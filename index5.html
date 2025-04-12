@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Form Elements</title>
+</head>
+<P>exercise 1</P>
+<body>
+    <form action="/submit" method="post">
+        <fieldset>
+            <legend>enter your details</legend>
+        <label for="name">email:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="name">password:</label>
+        <input type="password" required>
+        <label for="message">commit:</label>
+    <textarea id="message" name="commit" rows="3" cols="50"></textarea><br><br>
+    <button type="submit">Submit</button>
+        </fieldset>
+    </form> 
+    <p>exercise 2</p>
+    
+    <label for="country">Country:</label>
+       <select id="country" name="country" required>
+           <option value="">Select your country</option>
+           <option value="kz">Kazakhstan</option>
+           <option value="uk">United Kingdom</option>
+           <option value="au">Australia</option>
+       </select>
+       <button type="submit">Submit</button>
+       <button type="reset">reset</button>
+</body>
+</html>
