@@ -6,3 +6,8 @@ color: blue;
 #FirstId {color: red;
 }
 body {text-align: center;}
+.SecondClass {color: brown;
+text-align: right;}
+
+#SecondId {color: blueviolet;
+}
