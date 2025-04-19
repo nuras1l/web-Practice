@@ -1,38 +1,9 @@
-/* p {
-color: blue;
-}
-.FirstClass {font-weight: bold;
-}
-#FirstId {color: red;
-}
-body {text-align: center;}
-.SecondClass {color: brown;
-text-align: right;}
-
-#SecondId {color: blueviolet;
-} */
-h1 { color: aqua;
-    text-align: center;}
-h2 {color: red;}
-p { font-size: large;
-font-weight: bold;}
-
-
-div {
-    width: 200px;
-    height: 200px;
-    background-color: blanchedalmond;
-    background-image: url(5d79de9b63361.jpeg);
-}
-#first {padding: 10px;}
-#second {margin: 20px;}
-#third {border: 2px solid black;}
-.first {font-size: 30px;
-width: 110px;
-height: 200px;
-overflow: scroll;
-}
-.second {font-size: 20px;
-width: 100px;
-height: 120px;
-overflow: hidden;}
+#box {background-color: rgba(34, 34, 168, 0.7);
+font-size: 2rem;
+width: 50%;}
+p {font-size: 33px;}
+h1 {font-size: 25px;}
+h2 {font-size: 1.5em;}
+#text{color:#ffd220}
+#text1 {color: rgb(255, 100, 4);}
+#text2 {color: rgba(100, 100, 255, 0.7);}
