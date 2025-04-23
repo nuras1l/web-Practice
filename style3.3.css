@@ -1,0 +1,11 @@
+#first {display: inline;
+    background-color: lightcoral;}
+#second {display: inline;
+    background-color: lightblue;}
+#third {background-color: lightgreen;}
+img {display: block;
+    width: 600px;
+    height: 400px;}
+div {background-color: lightpink;}
+a {text-align: center;
+}
