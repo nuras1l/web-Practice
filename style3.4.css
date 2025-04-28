@@ -1,0 +1,26 @@
+.input:focus{
+    border-color: blue;
+}
+.button:hover {
+    background-color:burlywood;
+}
+.list-item:first-child{
+    font-weight: bold;
+}
+.list-item:last-child{
+color: blueviolet;
+}
+.first-block{
+    height: 30px;
+}
+.first-block:hover{
+    background-color: bisque;
+}
+
+.link:hover{
+    color: tan;}
+.Item:first-child{
+    font-weight: bold;}
+.Item:last-child{font-weight: bolder;
+    color:burlywood}
+li:last-child:hover{color: gray;}
